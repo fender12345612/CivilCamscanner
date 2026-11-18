@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#020617"/>
+  <rect x="36" y="36" width="440" height="440" rx="88" fill="#0f172a" stroke="#10b981" stroke-width="8" stroke-opacity="0.4"/>
+  <!-- Document sheet -->
+  <path d="M148 112h152l64 64v224a24 24 0 0 1-24 24H148a24 24 0 0 1-24-24V136a24 24 0 0 1 24-24z" fill="#f8fafc"/>
+  <path d="M300 112v48a16 16 0 0 0 16 16h48z" fill="#cbd5e1"/>
+  <!-- Document text lines -->
+  <rect x="164" y="212" width="160" height="16" rx="8" fill="#0f172a"/>
+  <rect x="164" y="252" width="184" height="14" rx="7" fill="#334155"/>
+  <rect x="164" y="288" width="140" height="14" rx="7" fill="#334155"/>
+  <rect x="164" y="324" width="112" height="14" rx="7" fill="#10b981"/>
+  <!-- Glowing Green 4-Point Scanner Frame -->
+  <path d="M92 140V100a16 16 0 0 1 16-16h40" fill="none" stroke="#22c55e" stroke-width="16" stroke-linecap="round"/>
+  <path d="M420 140V100a16 16 0 0 0-16-16h-40" fill="none" stroke="#22c55e" stroke-width="16" stroke-linecap="round"/>
+  <path d="M92 372v40a16 16 0 0 0 16 16h40" fill="none" stroke="#22c55e" stroke-width="16" stroke-linecap="round"/>
+  <path d="M420 372v40a16 16 0 0 1-16 16h-40" fill="none" stroke="#22c55e" stroke-width="16" stroke-linecap="round"/>
+  <!-- Laser scan line -->
+  <line x1="76" y1="264" x2="436" y2="264" stroke="#10b981" stroke-width="10" stroke-linecap="round"/>
+</svg>
